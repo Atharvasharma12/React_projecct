@@ -17,3 +17,10 @@
 
 
 }
+
+.stand_book1{
+    position: absolute;
+    width: 200px;
+    top: 63%;
+    right: 5%;
+}
